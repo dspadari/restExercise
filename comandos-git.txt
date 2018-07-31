@@ -1,0 +1,5 @@
+- Clone
+- Checkout	-Fetch
+- Add		-Merge
+- Commit
+- Push
